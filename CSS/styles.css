@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top_div {
+  background-color: #C3EDEA;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle_div {
+  position: relative;
+}
+
+.profile {
+  margin-bottom: 70px;
+}
+
+.skills {
+  line-height: 2;
+  margin-top:70px;
+}
+
+.skills1 {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding-bottom: 75px;
+}
+
+.skills2 {
+  text-align: left;
+  width: 50%;
+  margin: auto auto 70px auto;
+  padding-bottom: 70px;
+}
+
+.skill_1{
+  float: left;                         /*Float wraps text around images*/
+  margin: auto 30px 50px auto;
+  width: 25%;
+}
+
+.skill_2{
+  float: right;
+  width: 35%;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 20%;
+}
+
+h1 {
+  color: #00A1AB;
+  margin: 50px auto 0 auto;
+  font-size: 4.375rem;
+  /* 100% is 16px and so is 1em, also use 'rem' to avoid adding up of dynamIC font sizes*/
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #00A1AB;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.touch {
+  padding-top: 40px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.intro {
+  color: #00A1AB;
+}
+
+.novice {
+  text-decoration: underline;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 250px;
+  bottom: 565px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.face {
+  padding-top: 50px;
+  height: 200px;
+  width: 200px;
+}
