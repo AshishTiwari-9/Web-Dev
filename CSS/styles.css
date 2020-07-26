@@ -16,6 +16,11 @@ body {
 
 .bottom_div {
   background-color: #C3EDEA;
+  margin-bottom: 0;
+}
+
+.contact-me {
+  background-color: #C3EDEA;
 }
 
 .profile {
