@@ -14,6 +14,10 @@ body {
   position: relative;
 }
 
+.bottom_div {
+  background-color: #C3EDEA;
+}
+
 .profile {
   margin-bottom: 70px;
 }
