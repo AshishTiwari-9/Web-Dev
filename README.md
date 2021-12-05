@@ -1,3 +1,3 @@
-# Web-Dev
+# Front-End Web Development
 
-### This repository contains all of the files and stuff related to my Web-Development projects/samples.
+### A simple personal webpage
